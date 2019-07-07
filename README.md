@@ -10,4 +10,4 @@ It's one of Udacity nano-degree program project in IPN(intro to programming cour
 * [Contributing](#contributing)
 
 ## Instructions
- open `designs.js` and start building out the app's functionality.
+ Open `designs.js` and start building out the app's functionality.
