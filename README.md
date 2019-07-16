@@ -2,8 +2,6 @@
 It's one of Udacity nano-degree program project in IPN(intro to programming course).
 
 
-# Pixel Art Maker Project
-
 ## Table of Contents
 
 * [Instructions](#instructions)
